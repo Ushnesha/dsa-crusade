@@ -21,8 +21,7 @@
 
 | Topic | Solved |
 |---|---|
-| Arrays | 1 |
-| Hashing | 1 |
+| Arrays N Hashing | 1 |
 <!-- STATS:END -->
 
 ---
@@ -59,7 +58,7 @@ Every solution is a `.py` file inside the matching topic folder, and **must star
 """
 Problem: 1. Two Sum
 Difficulty: Easy
-Topic: Arrays, Hashing
+Topic: Arrays N Hashing
 Link: https://leetcode.com/problems/two-sum/
 Date: 2026-06-02
 """
@@ -81,7 +80,7 @@ def two_sum(nums, target):
 <!-- LOG:START -->
 | Date | Problem | Difficulty | Topic | Code |
 |---|---|---|---|---|
-| 2026-06-02 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays, Hashing | [link](solutions/array_n_hashing/group_anagrams.py) |
+| 2026-06-02 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/group_anagrams.py) |
 <!-- LOG:END -->
 
 ---

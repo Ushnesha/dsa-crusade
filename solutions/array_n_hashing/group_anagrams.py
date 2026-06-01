@@ -4,7 +4,7 @@ from typing import List
 """
 Problem: 49. Group Anagrams
 Difficulty: Medium
-Topic: Arrays, Hashing
+Topic: Arrays N Hashing
 Link: https://leetcode.com/problems/group-anagrams/
 Date: 2026-06-02
 """
