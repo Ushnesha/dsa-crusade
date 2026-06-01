@@ -1,4 +1,4 @@
-# 🧠 DSA Journey
+# DSA Journey
 
 > Daily data-structures & algorithms practice — building toward an AI/ML engineering role.
 > This README's stats and problem log update **automatically** on every push. 🤖
@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 Progress
+## Progress
 
 <!-- STATS:START -->
 **Total solved:** 2  |  🟢 Easy 1 · 🟠 Medium 1 · 🔴 Hard 0
@@ -26,7 +26,7 @@
 
 ---
 
-## 📁 Repository structure
+## Repository structure
 
 ```
 .
@@ -50,7 +50,7 @@
 
 ---
 
-## ✍️ Solution file convention
+## Solution file convention
 
 Every solution is a `.py` file inside the matching topic folder, and **must start with this header** so the auto-updater can index it:
 
@@ -75,7 +75,7 @@ def two_sum(nums, target):
 
 ---
 
-## 📒 Problem log
+## Problem log
 
 <!-- LOG:START -->
 | Date | Problem | Difficulty | Topic | Code |
@@ -86,7 +86,7 @@ def two_sum(nums, target):
 
 ---
 
-## 🚀 Local usage
+## Local usage
 
 ```bash
 # add a solution, then regenerate the README locally (optional — CI does this too)
@@ -95,11 +95,3 @@ python scripts/update_readme.py
 # run a quick sanity test on a solution
 python solutions/arrays/two_sum.py
 ```
-
----
-
-## 🎯 Goal & cadence
-
-One morning block per weekday (9–10 AM), ramping easy → medium → hard from June through September. Consistency over volume — a missed day is skipped, never doubled.
-
-*This file is partly machine-maintained. Hand-edit anything outside the `START`/`END` markers freely; content between them is overwritten on each push.*
