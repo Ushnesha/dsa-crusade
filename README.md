@@ -56,7 +56,7 @@
 | Date | Problem | Difficulty | Topic | Code |
 |---|---|---|---|---|
 | 2026-06-02 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/group_anagrams.py) |
-| 2026-06-02 | [242. Valid Anagram](is_anagram.py) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/is_anagram.py) |
+| 2026-06-02 | [242. Valid Anagram]({_relative_path}) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/is_anagram.py) |
 | 2026-06-02 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/contains_duplicate.py) |
 <!-- LOG:END -->
 
