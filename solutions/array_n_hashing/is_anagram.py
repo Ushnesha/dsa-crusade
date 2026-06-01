@@ -2,7 +2,7 @@
 Problem: 242. Valid Anagram
 Difficulty: Easy
 Topic: Arrays N Hashing
-Link: https://leetcode.com/problems/valid-anagram/
+Link: is_anagram.py
 Date: 2026-06-02
 """
 
