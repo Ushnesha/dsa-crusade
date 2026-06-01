@@ -1,15 +1,8 @@
-from pathlib import Path
-
-# Get the relative path from project root
-_current_file = Path(__file__).resolve()
-_project_root = _current_file.parents[2]  # Go up 2 levels
-_relative_path = _current_file.relative_to(_project_root)
-
-__doc__ = f"""
+"""
 Problem: 242. Valid Anagram
 Difficulty: Easy
 Topic: Arrays N Hashing
-Link: {_relative_path}
+Link: https://leetcode.com/problems/valid-anagram/
 Date: 2026-06-02
 """
 
