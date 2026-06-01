@@ -1,3 +1,11 @@
+"""
+Problem: 242. Valid Anagram
+Difficulty: Easy
+Topic: Arrays N Hashing
+Link: https://leetcode.com/problems/valid-anagram/
+Date: 2026-06-02
+"""
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         # using hash table
