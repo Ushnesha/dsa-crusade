@@ -50,31 +50,6 @@
 
 ---
 
-## Solution file convention
-
-Every solution is a `.py` file inside the matching topic folder, and **must start with this header** so the auto-updater can index it:
-
-```python
-"""
-Problem: 1. Two Sum
-Difficulty: Easy
-Topic: Arrays N Hashing
-Link: https://leetcode.com/problems/two-sum/
-Date: 2026-06-02
-"""
-
-def two_sum(nums, target):
-    seen = {}
-    for i, n in enumerate(nums):
-        if target - n in seen:
-            return [seen[target - n], i]
-        seen[n] = i
-```
-
-**Header fields:** `Problem`, `Difficulty` (Easy/Medium/Hard), `Topic` (comma-separated), `Link`, `Date` (YYYY-MM-DD). Miss the header and the file simply won't appear in the log — no other harm done.
-
----
-
 ## Problem log
 
 <!-- LOG:START -->
