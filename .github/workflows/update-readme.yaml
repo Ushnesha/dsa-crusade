@@ -2,6 +2,7 @@ name: Update README
 on:
   push:
     paths:
+      - 'Data Structures & Algorithms/**'
       - 'solutions/**'
       - 'scripts/update_readme.py'
 permissions:

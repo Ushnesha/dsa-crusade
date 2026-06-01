@@ -4,7 +4,10 @@ import glob, re
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 
-SOLUTIONS_GLOB = "solutions/**/*.py"
+SOLUTION_GLOBS = [
+    "Data Structures & Algorithms/**/*.py",
+    "solutions/**/*.py",
+]
 README = "README.md"
 FIELDS = ["Problem", "Difficulty", "Topic", "Link", "Date"]
 DIFF_ORDER = {"Easy": 0, "Medium": 1, "Hard": 2}
@@ -27,7 +30,10 @@ def replace_block(text, name, new):
     )
 
 def main():
-    probs = [parse(p) for p in glob.glob(SOLUTIONS_GLOB, recursive=True)]
+    files = []
+    for pattern in SOLUTION_GLOBS:
+        files += glob.glob(pattern, recursive=True)
+    probs = [parse(p) for p in files]
     probs = [p for p in probs if p["Problem"]]
     diff = Counter(p["Difficulty"] for p in probs)
     total = len(probs)

@@ -5,11 +5,11 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-0-blue)
+![Problems Solved](https://img.shields.io/badge/solved-1-blue)
 ![Easy](https://img.shields.io/badge/easy-0-brightgreen)
-![Medium](https://img.shields.io/badge/medium-0-orange)
+![Medium](https://img.shields.io/badge/medium-1-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
-![Last Updated](https://img.shields.io/badge/updated-never-lightgrey)
+![Last Updated](https://img.shields.io/badge/updated-2026--06--01-lightgrey)
 <!-- BADGES:END -->
 
 ---
@@ -17,7 +17,12 @@
 ## 📊 Progress
 
 <!-- STATS:START -->
-*No solutions yet.*
+**Total solved:** 1  |  🟢 Easy 0 · 🟠 Medium 1 · 🔴 Hard 0
+
+| Topic | Solved |
+|---|---|
+| Arrays | 1 |
+| Hashing | 1 |
 <!-- STATS:END -->
 
 ---
@@ -74,7 +79,9 @@ def two_sum(nums, target):
 ## 📒 Problem log
 
 <!-- LOG:START -->
-*The full table of solved problems appears here automatically, newest first.*
+| Date | Problem | Difficulty | Topic | Code |
+|---|---|---|---|---|
+| 2026-06-02 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays, Hashing | [link](solutions/array_n_hashing/group_anagrams.py) |
 <!-- LOG:END -->
 
 ---
