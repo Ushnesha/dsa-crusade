@@ -65,7 +65,14 @@ def main():
         log = "| Problem | Difficulty | Topic | Code |\n|---|---|---|---|\n"
         log += "\n".join(
             f"| [{p['Problem']}]({p['Link']}) | {p['Difficulty']} "
-            f"| {p['Topic']} | [link]({p['path']}) |" for p in probs)
+            f"| {p['Topic']} | [link]({p['path']}) |" for p in probs[:10])
+        if len(probs) > 10:
+            log += f"\n\n<details><summary>See all {len(probs)} problems</summary>\n\n"
+            log += "| Problem | Difficulty | Topic | Code |\n|---|---|---|---|\n"
+            log += "\n".join(
+                f"| [{p['Problem']}]({p['Link']}) | {p['Difficulty']} "
+                f"| {p['Topic']} | [link]({p['path']}) |" for p in probs[10:])
+            log += "\n\n</details>"
     else:
         log = "*No solutions yet.*"
 
