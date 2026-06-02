@@ -55,7 +55,7 @@
 
 <!-- LOG:START -->
 | Problem | Difficulty | Topic | Code |
-|---|---|---|---|---|
+|---|---|---|---|
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/group_anagrams.py) |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/is_anagram.py) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/contains_duplicate.py) |
