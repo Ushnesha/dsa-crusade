@@ -3,7 +3,6 @@ Problem: 125. Valid Palindrome
 Difficulty: Easy
 Topic: Two Pointers
 Link: https://leetcode.com/problems/valid-palindrome/
-Date: 2026-06-02
 """
 
 class Solution:

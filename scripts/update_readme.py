@@ -9,7 +9,7 @@ SOLUTION_GLOBS = [
     "solutions/**/*.py",
 ]
 README = "README.md"
-FIELDS = ["Problem", "Difficulty", "Topic", "Link", "Date"]
+FIELDS = ["Problem", "Difficulty", "Topic", "Link"]
 DIFF_ORDER = {"Easy": 0, "Medium": 1, "Hard": 2}
 
 def parse(path):
@@ -60,11 +60,11 @@ def main():
                            for t, c in sorted(topic_counts.items(), key=lambda x: -x[1]))
 
     # problem log, newest first
-    probs.sort(key=lambda p: (p["Date"], p["Problem"]), reverse=True)
+    probs.sort(key=lambda p: (today, p["Problem"]), reverse=True)
     if probs:
         log = "| Date | Problem | Difficulty | Topic | Code |\n|---|---|---|---|---|\n"
         log += "\n".join(
-            f"| {p['Date']} | [{p['Problem']}]({p['Link']}) | {p['Difficulty']} "
+            f"| {today} | [{p['Problem']}]({p['Link']}) | {p['Difficulty']} "
             f"| {p['Topic']} | [link]({p['path']}) |" for p in probs)
     else:
         log = "*No solutions yet.*"
