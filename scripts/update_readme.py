@@ -62,9 +62,9 @@ def main():
     # problem log, newest first
     probs.sort(key=lambda p: (today, p["Problem"]), reverse=True)
     if probs:
-        log = "| Date | Problem | Difficulty | Topic | Code |\n|---|---|---|---|---|\n"
+        log = "| Problem | Difficulty | Topic | Code |\n|---|---|---|---|---|\n"
         log += "\n".join(
-            f"| {today} | [{p['Problem']}]({p['Link']}) | {p['Difficulty']} "
+            f"| [{p['Problem']}]({p['Link']}) | {p['Difficulty']} "
             f"| {p['Topic']} | [link]({p['path']}) |" for p in probs)
     else:
         log = "*No solutions yet.*"
