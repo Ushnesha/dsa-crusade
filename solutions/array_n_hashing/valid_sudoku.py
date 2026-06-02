@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 36. Valid Sudoku
+Difficulty: Medium
+Topic: Arrays N Hashing
+Link: https://leetcode.com/problems/valid-sudoku/
+"""
+
 class Solution:
 
     def checkForRow(self, board: List[List[str]]) -> bool:

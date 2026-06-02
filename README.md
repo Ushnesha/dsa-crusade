@@ -5,9 +5,9 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-5-blue)
-![Easy](https://img.shields.io/badge/easy-3-brightgreen)
-![Medium](https://img.shields.io/badge/medium-2-orange)
+![Problems Solved](https://img.shields.io/badge/solved-10-blue)
+![Easy](https://img.shields.io/badge/easy-4-brightgreen)
+![Medium](https://img.shields.io/badge/medium-6-orange)
 ![Hard](https://img.shields.io/badge/hard-0-red)
 ![Last Updated](https://img.shields.io/badge/updated-2026--06--02-lightgrey)
 <!-- BADGES:END -->
@@ -17,11 +17,11 @@
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 5  |  🟢 Easy 3 · 🟠 Medium 2 · 🔴 Hard 0
+**Total solved:** 10  |  🟢 Easy 4 · 🟠 Medium 6 · 🔴 Hard 0
 
 | Topic | Solved |
 |---|---|
-| Arrays N Hashing | 4 |
+| Arrays N Hashing | 9 |
 | Two Pointers | 1 |
 <!-- STATS:END -->
 
@@ -57,10 +57,15 @@
 | Problem | Difficulty | Topic | Code |
 |---|---|---|---|
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/group_anagrams.py) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/valid_sudoku.py) |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/top_k_freq_elems.py) |
+| [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/string_encode_decode.py) |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/is_anagram.py) |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/product_of_arr_except_self.py) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/contains_duplicate.py) |
-| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/longest_consecutive_sequence.py.py) |
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/longest_consecutive_sequence.py) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [link](solutions/two_pointers/is_palindrome.py) |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/two_sum.py) |
 <!-- LOG:END -->
 
 ---

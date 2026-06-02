@@ -6,7 +6,6 @@ Problem: 217. Contains Duplicate
 Difficulty: Easy
 Topic: Arrays N Hashing
 Link: https://leetcode.com/problems/contains-duplicate/
-Date: 2026-06-02
 """
 
 class Solution:

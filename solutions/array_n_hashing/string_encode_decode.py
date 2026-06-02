@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 271. Encode and Decode Strings
+Difficulty: Medium
+Topic: Arrays N Hashing
+Link: https://leetcode.com/problems/encode-and-decode-strings/
+"""
+
 class Solution:
 
     def encode(self, strs: List[str]) -> str:

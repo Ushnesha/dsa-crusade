@@ -1,3 +1,13 @@
+from typing import List
+from collections import Counter
+
+"""
+Problem: 347. Top K Frequent Elements
+Difficulty: Medium
+Topic: Arrays N Hashing
+Link: https://leetcode.com/problems/top-k-frequent-elements/
+"""
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         bucket = [[] for _ in range(len(nums) + 1)]

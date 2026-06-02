@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 238. Product of Array Except Self
+Difficulty: Medium
+Topic: Arrays N Hashing
+Link: https://leetcode.com/problems/product-of-array-except-self/
+"""
+
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         N = len(nums)
