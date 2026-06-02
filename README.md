@@ -69,7 +69,7 @@
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/product_of_arr_except_self.py) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/contains_duplicate.py) |
 
-<details><summary>See all 15 problems</summary>
+<div style='height: 400px; overflow-y: auto;'>
 
 | Problem | Difficulty | Topic | Code |
 |---|---|---|---|
@@ -79,7 +79,7 @@
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [link](solutions/two_pointers/is_palindrome.py) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/two_sum.py) |
 
-</details>
+</div>
 <!-- LOG:END -->
 
 ---

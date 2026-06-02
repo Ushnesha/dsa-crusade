@@ -59,7 +59,7 @@ def main():
         stats += "\n".join(f"| {t} | {c} |"
                            for t, c in sorted(topic_counts.items(), key=lambda x: -x[1]))
 
-    # problem log, newest first
+    # problem log, newest first (top 10 + scrollable rest)
     probs.sort(key=lambda p: (today, p["Problem"]), reverse=True)
     if probs:
         log = "| Problem | Difficulty | Topic | Code |\n|---|---|---|---|\n"
@@ -67,12 +67,12 @@ def main():
             f"| [{p['Problem']}]({p['Link']}) | {p['Difficulty']} "
             f"| {p['Topic']} | [link]({p['path']}) |" for p in probs[:10])
         if len(probs) > 10:
-            log += f"\n\n<details><summary>See all {len(probs)} problems</summary>\n\n"
+            log += f"\n\n<div style='height: 400px; overflow-y: auto;'>\n\n"
             log += "| Problem | Difficulty | Topic | Code |\n|---|---|---|---|\n"
             log += "\n".join(
                 f"| [{p['Problem']}]({p['Link']}) | {p['Difficulty']} "
                 f"| {p['Topic']} | [link]({p['path']}) |" for p in probs[10:])
-            log += "\n\n</details>"
+            log += "\n\n</div>"
     else:
         log = "*No solutions yet.*"
 
