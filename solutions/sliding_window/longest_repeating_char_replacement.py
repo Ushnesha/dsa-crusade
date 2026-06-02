@@ -1,4 +1,12 @@
 from collections import defaultdict
+
+"""
+Problem: 424. Longest Repeating Character Replacement
+Difficulty: Medium
+Topic: Sliding Window
+Link: https://leetcode.com/problems/longest-repeating-character-replacement/
+"""
+
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         long_len = 0
