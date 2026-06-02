@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 739. Daily Temperatures
+Difficulty: Medium
+Topic: Stack
+Link: https://leetcode.com/problems/daily-temperatures/
+"""
+
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
         n = len(temperatures)

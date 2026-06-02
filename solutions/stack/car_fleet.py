@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 853. Car Fleet
+Difficulty: Medium
+Topic: Stack
+Link: https://leetcode.com/problems/car-fleet/
+"""
+
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
 
