@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 167. Two Sum II - Input Array Is Sorted
+Difficulty: Medium
+Topic: Two Pointers
+Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+"""
+
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         i , j = 0 , len(numbers)-1

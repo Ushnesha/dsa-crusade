@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 15. 3Sum
+Difficulty: Medium
+Topic: Two Pointers
+Link: https://leetcode.com/problems/3sum/
+"""
+
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
