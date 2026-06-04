@@ -59,8 +59,8 @@ def main():
         stats += "\n".join(f"| {t} | {c} |"
                            for t, c in sorted(topic_counts.items(), key=lambda x: -x[1]))
 
-    # problem log, newest first (scrollable table)
-    probs.sort(key=lambda p: (today, p["Problem"]), reverse=True)
+    # problem log, sorted by difficulty (Easy → Medium → Hard), then by problem number
+    probs.sort(key=lambda p: (DIFF_ORDER.get(p["Difficulty"], 999), -int(re.search(r'\d+', p["Problem"]).group() if re.search(r'\d+', p["Problem"]) else 0)))
     if probs:
         log = f"<div style='height: 400px; overflow-y: auto;'>\n\n"
         log += "| Problem | Difficulty | Topic | Code |\n|---|---|---|---|\n"
