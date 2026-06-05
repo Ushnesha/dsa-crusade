@@ -23,8 +23,8 @@
 |---|---|
 | Arrays N Hashing | 9 |
 | Two Pointers | 5 |
-| Sliding Window | 2 |
 | Stack | 2 |
+| Sliding Window | 2 |
 <!-- STATS:END -->
 
 ---
