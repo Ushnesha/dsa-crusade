@@ -1,4 +1,13 @@
 import math
+from collections import defaultdict
+
+"""
+Problem: 76. Minimum Window Substring
+Difficulty: Hard
+Topic: Sliding Window
+Link: https://leetcode.com/problems/minimum-window-substring/
+"""
+
 class Solution:
     
     def has_space(self, d):

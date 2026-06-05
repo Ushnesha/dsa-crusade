@@ -5,10 +5,10 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-17-blue)
+![Problems Solved](https://img.shields.io/badge/solved-18-blue)
 ![Easy](https://img.shields.io/badge/easy-4-brightgreen)
 ![Medium](https://img.shields.io/badge/medium-12-orange)
-![Hard](https://img.shields.io/badge/hard-1-red)
+![Hard](https://img.shields.io/badge/hard-2-red)
 ![Last Updated](https://img.shields.io/badge/updated-2026--06--05-lightgrey)
 <!-- BADGES:END -->
 
@@ -17,14 +17,14 @@
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 17  |  🟢 Easy 4 · 🟠 Medium 12 · 🔴 Hard 1
+**Total solved:** 18  |  🟢 Easy 4 · 🟠 Medium 12 · 🔴 Hard 2
 
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
 | Two Pointers | 5 |
+| Sliding Window | 2 |
 | Stack | 2 |
-| Sliding Window | 1 |
 <!-- STATS:END -->
 
 ---
@@ -76,6 +76,7 @@
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/valid_sudoku.py) |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | Two Pointers | [link](solutions/two_pointers/three_sum.py) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers | [link](solutions/two_pointers/container_with_most_water.py) |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Sliding Window | [link](solutions/sliding_window/minimum_window_substring.py) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Two Pointers | [link](solutions/two_pointers/trapping_rain_water.py) |
 
 </div>
