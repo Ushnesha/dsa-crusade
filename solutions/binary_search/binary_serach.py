@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 704. Binary Search
+Difficulty: Easy
+Topic: Binary Search
+Link: https://leetcode.com/problems/binary-search/
+"""
+
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         l, r = 0, len(nums)-1
