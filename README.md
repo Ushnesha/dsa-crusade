@@ -5,8 +5,8 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-18-blue)
-![Easy](https://img.shields.io/badge/easy-4-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-19-blue)
+![Easy](https://img.shields.io/badge/easy-5-brightgreen)
 ![Medium](https://img.shields.io/badge/medium-12-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 ![Last Updated](https://img.shields.io/badge/updated-2026--06--10-lightgrey)
@@ -17,14 +17,15 @@
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 18  |  🟢 Easy 4 · 🟠 Medium 12 · 🔴 Hard 2
+**Total solved:** 19  |  🟢 Easy 5 · 🟠 Medium 12 · 🔴 Hard 2
 
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
 | Two Pointers | 5 |
-| Sliding Window | 2 |
 | Stack | 2 |
+| Sliding Window | 2 |
+| Binary Search | 1 |
 <!-- STATS:END -->
 
 ---
@@ -60,6 +61,7 @@
 
 | Problem | Difficulty | Topic | Code |
 |---|---|---|---|
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Binary Search | [link](solutions/binary_search/binary_serach.py) |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/is_anagram.py) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/contains_duplicate.py) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [link](solutions/two_pointers/is_palindrome.py) |
