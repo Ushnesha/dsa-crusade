@@ -9,7 +9,7 @@
 ![Easy](https://img.shields.io/badge/easy-5-brightgreen)
 ![Medium](https://img.shields.io/badge/medium-12-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
-![Last Updated](https://img.shields.io/badge/updated-2026--06--10-lightgrey)
+![Last Updated](https://img.shields.io/badge/updated-2026--06--13-lightgrey)
 <!-- BADGES:END -->
 
 ---
@@ -23,8 +23,8 @@
 |---|---|
 | Arrays N Hashing | 9 |
 | Two Pointers | 5 |
-| Stack | 2 |
 | Sliding Window | 2 |
+| Stack | 2 |
 | Binary Search | 1 |
 <!-- STATS:END -->
 
