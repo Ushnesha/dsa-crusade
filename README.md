@@ -5,8 +5,8 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-19-blue)
-![Easy](https://img.shields.io/badge/easy-5-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-20-blue)
+![Easy](https://img.shields.io/badge/easy-6-brightgreen)
 ![Medium](https://img.shields.io/badge/medium-12-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 ![Last Updated](https://img.shields.io/badge/updated-2026--06--13-lightgrey)
@@ -17,13 +17,13 @@
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 19  |  🟢 Easy 5 · 🟠 Medium 12 · 🔴 Hard 2
+**Total solved:** 20  |  🟢 Easy 6 · 🟠 Medium 12 · 🔴 Hard 2
 
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
 | Two Pointers | 5 |
-| Sliding Window | 2 |
+| Sliding Window | 3 |
 | Stack | 2 |
 | Binary Search | 1 |
 <!-- STATS:END -->
@@ -65,6 +65,7 @@
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/is_anagram.py) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/contains_duplicate.py) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [link](solutions/two_pointers/is_palindrome.py) |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Sliding Window | [link](solutions/sliding_window/best_time_to_sell_and_biuy_stocks.py) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/two_sum.py) |
 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | Stack | [link](solutions/stack/car_fleet.py) |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Stack | [link](solutions/stack/daily_temperatures.py) |
