@@ -1,3 +1,11 @@
+from collections import defaultdict
+
+"""
+Problem: 3. Longest Substring Without Repeating Characters
+Difficulty: Medium
+Topic: Sliding Window
+Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+"""
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         i, j = 0, 0
