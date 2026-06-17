@@ -22,8 +22,8 @@
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
-| Two Pointers | 5 |
 | Sliding Window | 5 |
+| Two Pointers | 5 |
 | Stack | 2 |
 | Binary Search | 1 |
 <!-- STATS:END -->
