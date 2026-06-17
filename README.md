@@ -5,9 +5,9 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-21-blue)
+![Problems Solved](https://img.shields.io/badge/solved-22-blue)
 ![Easy](https://img.shields.io/badge/easy-6-brightgreen)
-![Medium](https://img.shields.io/badge/medium-13-orange)
+![Medium](https://img.shields.io/badge/medium-14-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 ![Last Updated](https://img.shields.io/badge/updated-2026--06--17-lightgrey)
 <!-- BADGES:END -->
@@ -17,13 +17,13 @@
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 21  |  🟢 Easy 6 · 🟠 Medium 13 · 🔴 Hard 2
+**Total solved:** 22  |  🟢 Easy 6 · 🟠 Medium 14 · 🔴 Hard 2
 
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
 | Two Pointers | 5 |
-| Sliding Window | 4 |
+| Sliding Window | 5 |
 | Stack | 2 |
 | Binary Search | 1 |
 <!-- STATS:END -->
@@ -69,6 +69,7 @@
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/two_sum.py) |
 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | Stack | [link](solutions/stack/car_fleet.py) |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Stack | [link](solutions/stack/daily_temperatures.py) |
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Sliding Window | [link](solutions/sliding_window/permutation_in_string.py) |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Sliding Window | [link](solutions/sliding_window/longest_repeating_char_replacement.py) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/top_k_freq_elems.py) |
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/string_encode_decode.py) |
