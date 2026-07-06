@@ -1,0 +1,11 @@
+# Ignore LeetHub / automated sync folder
+Data Structures & Algorithms/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
