@@ -5,9 +5,9 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-24-blue)
+![Problems Solved](https://img.shields.io/badge/solved-25-blue)
 ![Easy](https://img.shields.io/badge/easy-6-brightgreen)
-![Medium](https://img.shields.io/badge/medium-16-orange)
+![Medium](https://img.shields.io/badge/medium-17-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 ![Last Updated](https://img.shields.io/badge/updated-2026--07--24-lightgrey)
 <!-- BADGES:END -->
@@ -17,14 +17,14 @@
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 24  |  🟢 Easy 6 · 🟠 Medium 16 · 🔴 Hard 2
+**Total solved:** 25  |  🟢 Easy 6 · 🟠 Medium 17 · 🔴 Hard 2
 
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
 | Sliding Window | 5 |
 | Two Pointers | 5 |
-| Binary Search | 3 |
+| Binary Search | 4 |
 | Stack | 2 |
 <!-- STATS:END -->
 
@@ -76,6 +76,7 @@
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/string_encode_decode.py) |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/product_of_arr_except_self.py) |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers | [link](solutions/two_pointers/two_sum_II.py) |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Binary Search | [link](solutions/binary_search/find-minimum-in-rotated-sorted-array.py) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/longest_consecutive_sequence.py) |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Binary Search | [link](solutions/binary_search/search-2d-matrix.py) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/group_anagrams.py) |
