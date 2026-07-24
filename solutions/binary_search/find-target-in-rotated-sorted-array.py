@@ -1,3 +1,12 @@
+from typing import List
+
+"""
+Problem: 33. Find Target in Rotated Sorted Array
+Difficulty: Medium
+Topic: Binary Search
+Link: https://leetcode.com/problems/find-target-in-rotated-sorted-array/
+"""
+
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         l,h = 0, len(nums)-1
