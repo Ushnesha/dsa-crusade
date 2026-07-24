@@ -5,9 +5,9 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-25-blue)
+![Problems Solved](https://img.shields.io/badge/solved-27-blue)
 ![Easy](https://img.shields.io/badge/easy-6-brightgreen)
-![Medium](https://img.shields.io/badge/medium-17-orange)
+![Medium](https://img.shields.io/badge/medium-19-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 ![Last Updated](https://img.shields.io/badge/updated-2026--07--24-lightgrey)
 <!-- BADGES:END -->
@@ -17,14 +17,14 @@
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 25  |  🟢 Easy 6 · 🟠 Medium 17 · 🔴 Hard 2
+**Total solved:** 27  |  🟢 Easy 6 · 🟠 Medium 19 · 🔴 Hard 2
 
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
+| Binary Search | 6 |
 | Sliding Window | 5 |
 | Two Pointers | 5 |
-| Binary Search | 4 |
 | Stack | 2 |
 <!-- STATS:END -->
 
@@ -67,6 +67,7 @@
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [link](solutions/two_pointers/is_palindrome.py) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Sliding Window | [link](solutions/sliding_window/best_time_to_sell_and_biuy_stocks.py) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays N Hashing | [link](solutions/array_n_hashing/two_sum.py) |
+| [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | Binary Search | [link](solutions/binary_search/time-based-key-value-store.py) |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Binary Search | [link](solutions/binary_search/eating-bananas.py) |
 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | Stack | [link](solutions/stack/car_fleet.py) |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Stack | [link](solutions/stack/daily_temperatures.py) |
@@ -81,6 +82,7 @@
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | Binary Search | [link](solutions/binary_search/search-2d-matrix.py) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/group_anagrams.py) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Arrays N Hashing | [link](solutions/array_n_hashing/valid_sudoku.py) |
+| [33. Find Target in Rotated Sorted Array](https://leetcode.com/problems/find-target-in-rotated-sorted-array/) | Medium | Binary Search | [link](solutions/binary_search/find-target-in-rotated-sorted-array.py) |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | Two Pointers | [link](solutions/two_pointers/three_sum.py) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers | [link](solutions/two_pointers/container_with_most_water.py) |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Sliding Window | [link](solutions/sliding_window/longest_substring_without_duplicate.py) |
