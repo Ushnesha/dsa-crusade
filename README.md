@@ -5,10 +5,11 @@
 
 <!-- Badges auto-update via the workflow -->
 <!-- BADGES:START -->
-![Problems Solved](https://img.shields.io/badge/solved-29-blue)
+![Problems Solved](https://img.shields.io/badge/solved-30-blue)
 ![Easy](https://img.shields.io/badge/easy-7-brightgreen)
-![Medium](https://img.shields.io/badge/medium-20-orange)
+![Medium](https://img.shields.io/badge/medium-21-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
+![Last Updated](https://img.shields.io/badge/updated-2026--10--01-lightgrey)
 ![Last Updated](https://img.shields.io/badge/updated-2026--10--01-lightgrey)
 <!-- BADGES:END -->
 
@@ -17,15 +18,14 @@
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 29  |  🟢 Easy 7 · 🟠 Medium 20 · 🔴 Hard 2
+**Total solved:** 30  |  🟢 Easy 7 · 🟠 Medium 21 · 🔴 Hard 2
 
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
 | Binary Search | 6 |
 | Sliding Window | 5 |
-| Two Pointers | 5 |
-| Linked List | 2 |
+| Linked List | 3 |
 | Stack | 2 |
 <!-- STATS:END -->
 
@@ -89,6 +89,7 @@
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | Two Pointers | [link](solutions/two_pointers/three_sum.py) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers | [link](solutions/two_pointers/container_with_most_water.py) |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Sliding Window | [link](solutions/sliding_window/longest_substring_without_duplicate.py) |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List | [link](solutions/linked_list/add-two-numbers.py) |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Sliding Window | [link](solutions/sliding_window/minimum_window_substring.py) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | Two Pointers | [link](solutions/two_pointers/trapping_rain_water.py) |
 

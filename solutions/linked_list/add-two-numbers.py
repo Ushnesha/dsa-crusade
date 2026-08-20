@@ -1,3 +1,12 @@
+from typing import Optional
+
+"""
+Problem: 2. Add Two Numbers
+Difficulty: Medium
+Topic: Linked List
+Link: https://leetcode.com/problems/add-two-numbers/
+"""
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
