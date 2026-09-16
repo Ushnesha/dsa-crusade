@@ -9,7 +9,7 @@
 ![Easy](https://img.shields.io/badge/easy-6-brightgreen)
 ![Medium](https://img.shields.io/badge/medium-19-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
-![Last Updated](https://img.shields.io/badge/updated-2026--09--09-lightgrey)
+![Last Updated](https://img.shields.io/badge/updated-2026--09--16-lightgrey)
 <!-- BADGES:END -->
 
 ---
