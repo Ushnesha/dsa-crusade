@@ -7,6 +7,8 @@
 <!-- BADGES:START -->
 ![Problems Solved](https://img.shields.io/badge/solved-29-blue)
 ![Easy](https://img.shields.io/badge/easy-7-brightgreen)
+![Problems Solved](https://img.shields.io/badge/solved-29-blue)
+![Easy](https://img.shields.io/badge/easy-7-brightgreen)
 ![Medium](https://img.shields.io/badge/medium-20-orange)
 ![Hard](https://img.shields.io/badge/hard-2-red)
 ![Last Updated](https://img.shields.io/badge/updated-2026--09--30-lightgrey)
@@ -18,13 +20,14 @@
 
 <!-- STATS:START -->
 **Total solved:** 29  |  🟢 Easy 7 · 🟠 Medium 20 · 🔴 Hard 2
+**Total solved:** 29  |  🟢 Easy 7 · 🟠 Medium 20 · 🔴 Hard 2
 
 | Topic | Solved |
 |---|---|
 | Arrays N Hashing | 9 |
 | Binary Search | 6 |
-| Sliding Window | 5 |
 | Two Pointers | 5 |
+| Sliding Window | 5 |
 | Linked List | 2 |
 | Stack | 2 |
 <!-- STATS:END -->
