@@ -1,3 +1,13 @@
+from typing import Optional
+
+"""
+Problem: 141. Linked List Cycle
+Difficulty: Easy
+Topic: Linked List
+Link: https://leetcode.com/problems/linked-list-cycle/
+"""
+
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
